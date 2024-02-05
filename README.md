@@ -12,19 +12,19 @@ Undergraduate student pursuing Software Engineering at the University of Karachi
 ## 🚀 Projects
 
 1. **[Parhle Fail Hojayega](https://parhle.tk)**
-   - **Description:** A comprehensive platform created to facilitate students in accessing and sharing study materials online. Developed with a user-friendly interface, Parhle.tk allows students to upload, download, and collaborate on notes.
+   - **Description:** A comprehensive platform created to facilitate students in accessing and sharing study materials online. Developed with a user-friendly interface, PFH allows students to upload, download, and collaborate on notes.
    - **Role:** As the sole developer, I designed and implemented the entire project.
-   - **Technologies Used:** JavaScript, HTML, CSS
+   - **Technologies Used:** JavaScript, HTML, CSS.
 
 2. **[Solid Pixel](https://nashe.solidpixel.tk)**
-   - **Description:** SolidPixel stands as a unique marketplace, providing a platform for the sale of unconventional and niche goods not typically found on mainstream e-commerce sites. My role involved serving as a key developer and architect, ensuring the implementation of features such as anonymous transactions and user-driven item listings.
-   - **Role:** Key developer and architect
-   - **Technologies Used:** JavaScript, HTML, CSS
+   - **Description:** SolidPixel stands as a unique marketplace, providing a platform for the anonymous sale of unconventional and niche goods not typically found on mainstream e-commerce sites.
+   - **Role:** Key developer and architect.
+   - **Technologies Used:** JavaScript, HTML, CSS.
 
 3. **[The Daily Valhalla](https://thedailyvalhalla.tk)**
-   - **Description:** The Daily Valhalla is a dynamic news website designed to deliver daily updates across various topics. As the main developer behind the project, I was responsible for coding and implementing the website's features.
-   - **Role:** Main developer responsible for coding and implementing features
-   - **Technologies Used:** JavaScript, HTML, CSS
+   - **Description:** The Daily Valhalla is a dynamic indie news website designed to deliver daily updates across various topics.
+   - **Role:** Main developer responsible for coding and implementing features.
+   - **Technologies Used:** JavaScript, HTML, CSS.
 
 ## 📊 Github stats
 [![TheAM01's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheAM01&theme=darcula)](https://github.com/TheAM01/github-readme-stats)
