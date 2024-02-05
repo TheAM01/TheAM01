@@ -27,14 +27,14 @@ Undergraduate student pursuing Software Engineering at the University of Karachi
    - **Technologies Used:** JavaScript, HTML, CSS.
 
 ## 📊 Github stats
-[![TheAM01's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheAM01&theme=darcula)](https://github.com/TheAM01/github-readme-stats)
+[![TheAM01's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheAM01&theme=darcula)](https://github.com/TheAM01/)
 
 ## 📌 Some cool repos
-[![Parhle Fail Hojayega](https://github-readme-stats.vercel.app/api/pin/?username=TheAM01&repo=pfh&theme=darcula)](https://github.com/TheAM01/github-readme-stats)
+[![Parhle Fail Hojayega](https://github-readme-stats.vercel.app/api/pin/?username=TheAM01&repo=pfh&theme=darcula)](https://github.com/TheAM01/pfh)
 
-[![SolidPixel](https://github-readme-stats.vercel.app/api/pin/?username=TheAM01&repo=solid-pixel-nashe&theme=darcula)](https://github.com/TheAM01/github-readme-stats)
+[![SolidPixel](https://github-readme-stats.vercel.app/api/pin/?username=TheAM01&repo=solid-pixel-nashe&theme=darcula)](https://github.com/TheAM01/solid-pixel-nashe)
 
-[![The Daily Valhalla](https://github-readme-stats.vercel.app/api/pin/?username=TheAM01&repo=daily-valhalla&theme=darcula)](https://github.com/TheAM01/github-readme-stats)
+[![The Daily Valhalla](https://github-readme-stats.vercel.app/api/pin/?username=TheAM01&repo=daily-valhalla&theme=darcula)](https://github.com/TheAM01/daily-valhalla)
 
 ## 🎓 Education
 - **University:** University of Karachi
