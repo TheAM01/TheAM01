@@ -29,6 +29,8 @@ Undergraduate student pursuing Software Engineering at the University of Karachi
 ## 📊 Github stats
 [![TheAM01's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheAM01&theme=darcula)](https://github.com/TheAM01/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAM01&layout=donut&theme=darcula)](https://github.com/TheAM01)
+
 ## 📌 Some cool repos
 [![Parhle Fail Hojayega](https://github-readme-stats.vercel.app/api/pin/?username=TheAM01&repo=pfh&theme=darcula)](https://github.com/TheAM01/pfh)
 
