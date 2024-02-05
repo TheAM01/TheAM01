@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Mueed.
+I am an undergrad at the University of Karachi. I'm studying software engineering and I'm interested in Web development & Web technologies.
+
 
 <!--
 **TheAM01/TheAM01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
