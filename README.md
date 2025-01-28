@@ -1,27 +1,36 @@
 # Hi! 👋 I'm Abdul Mueed
+**[Website](https://me.mueed.xyz)**
 
 ## 🎓 Introduction
-Undergraduate student pursuing Software Engineering at the University of Karachi. Passionate about coding since 2017, specializing in developing websites and web applications focused on automation and utility.
+Undergraduate student pursuing Software Engineering at the University of Karachi. Passionate about coding since 2017, specializing in developing websites and web applications focused on automation and utility. Currently focused on machine learning, Agentic AI and cybersecurity fundamentals.
 
 ## 💻 Skills
-- JavaScript (Primary)
-- Dart
+
+### 🌍 Languages
+- JavaScript (Node.js)
+- Dart 
 - Python
 - C
 
+### 🖼 Frameworks
+- Express
+- React
+- React Native
+- Flutter
+
 ## 🚀 Projects
 
-1. **[Parhle Fail Hojayega](https://parhle.tk)**
+1. **[Parhle Fail Hojayega](https://parhle.mueed.xyz)**
    - **Description:** A comprehensive platform created to facilitate students in accessing and sharing study materials online. Developed with a user-friendly interface, PFH allows students to upload, download, and collaborate on notes.
    - **Role:** As the sole developer, I designed and implemented the entire project.
    - **Technologies Used:** JavaScript, HTML, CSS.
 
-2. **[Solid Pixel](https://nashe.solidpixel.tk)**
+2. **[Solid Pixel](https://solidpixel.mueed.xyz)**
    - **Description:** SolidPixel stands as a unique marketplace, providing a platform for the anonymous sale of unconventional and niche goods not typically found on mainstream e-commerce sites.
    - **Role:** Key developer and architect.
    - **Technologies Used:** JavaScript, HTML, CSS.
 
-3. **[The Daily Valhalla](https://thedailyvalhalla.tk)**
+3. **[The Daily Valhalla](https://valhalla.mueed.xyz)**
    - **Description:** The Daily Valhalla is a dynamic indie news website designed to deliver daily updates across various topics.
    - **Role:** Main developer responsible for coding and implementing features.
    - **Technologies Used:** JavaScript, HTML, CSS.
@@ -40,10 +49,11 @@ Undergraduate student pursuing Software Engineering at the University of Karachi
 
 ## 🎓 Education
 - **University:** University of Karachi
-- **Degree:** Bachelor's in Software Engineering
+- **Degree:** Bachelor's in Software Engineering (2024-)
 
 ## 📧 Contact
 - **Email:** [personal.abdulmueed@gmail.com](mailto:personal.abdulmueed@gmail.com)
+- **Discord:** [The AM's server](https://discord.gg/VJ8jHWTj4K)
 
 
 
