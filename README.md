@@ -2,7 +2,7 @@
 **[Website](https://me.mueed.xyz)**
 
 ## 🎓 Introduction
-Undergraduate student pursuing Software Engineering at the University of Karachi. Passionate about coding since 2017, specializing in developing websites and web applications focused on automation and utility. Currently focused on machine learning, Agentic AI and cybersecurity fundamentals.
+Passionate about coding since 2017, specializing in developing websites and web applications focused on automation and utility. Currently focused on machine learning, Agentic AI and cybersecurity fundamentals.
 
 ## 💻 Skills
 
