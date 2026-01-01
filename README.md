@@ -1,20 +1,20 @@
 # Hi! 👋 I'm Abdul Mueed
-**[Website](https://me.mueed.xyz)**
+**[Website](https://portfolio.mueed.xyz)**
 
 ## 🎓 Introduction
-Passionate about coding since 2017, specializing in developing websites and web applications focused on automation and utility. Currently focused on machine learning, Agentic AI and cybersecurity fundamentals.
+Passionate about coding since 2017. Currently running my own startup building automated AI based business solutions for E-commerce businesses in the form of SaaS. I specialize in software architecture design and frontend development.
 
 ## 💻 Skills
 
 ### 🌍 Languages
-- JavaScript (Node.js)
-- Dart 
+- JavaScript/TypeScript
+- Dart
 - Python
-- C
 
 ### 🖼 Frameworks
-- Express
+- Next.js
 - React
+- Express
 - React Native
 - Flutter
 
@@ -23,12 +23,12 @@ Passionate about coding since 2017, specializing in developing websites and web 
 1. **[Parhle Fail Hojayega](https://parhle.mueed.xyz)**
    - **Description:** A comprehensive platform created to facilitate students in accessing and sharing study materials online. Developed with a user-friendly interface, PFH allows students to upload, download, and collaborate on notes.
    - **Role:** As the sole developer, I designed and implemented the entire project.
-   - **Technologies Used:** JavaScript, HTML, CSS.
+   - **Technologies Used:** Next.js, TailwindCSS, MongoDB, JavaScript
 
 2. **[Solid Pixel](https://solidpixel.mueed.xyz)**
    - **Description:** SolidPixel stands as a unique marketplace, providing a platform for the anonymous sale of unconventional and niche goods not typically found on mainstream e-commerce sites.
    - **Role:** Key developer and architect.
-   - **Technologies Used:** JavaScript, HTML, CSS.
+   - **Technologies Used:** Express, Socket.IO, JavaScript, my own little framework ;)
 
 3. **[The Daily Valhalla](https://valhalla.mueed.xyz)**
    - **Description:** The Daily Valhalla is a dynamic indie news website designed to deliver daily updates across various topics.
@@ -55,7 +55,9 @@ Passionate about coding since 2017, specializing in developing websites and web 
 - **Email:** [personal.abdulmueed@gmail.com](mailto:personal.abdulmueed@gmail.com)
 - **Discord:** [The AM's server](https://discord.gg/VJ8jHWTj4K)
 
+---
 
+I was required to edit this with up to date information xd
 
 <!--
 **TheAM01/TheAM01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
