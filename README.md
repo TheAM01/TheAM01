@@ -103,7 +103,7 @@ A study materials platform for students to upload, download, and collaborate on 
 </div>
 
 ---
-
+<!--
 ## EDUCATION
 
 ![University of Karachi](https://img.shields.io/badge/University_of_Karachi-000000?style=flat-square&logoColor=white)
