@@ -57,7 +57,7 @@ End-to-end online class management. Batches, lectures, scheduling, automated thu
 
 ---
 
-### [PARHLE FAIL HOJAYEGA](https://parhle.mueed.xyz)
+### [PARHLE](https://parhle.mueed.xyz)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-000?style=flat-square&logo=tailwindcss&logoColor=white)
